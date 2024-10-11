@@ -10,5 +10,5 @@ The folder 'Alignment_response_properties' illustrates the influence of FF-Rec-A
 Code in folder 'Modelpredictions' illustrates the predictions made by the model on the relationship between response properties and reproduces Figs. 7g and Extended Data Fig. 9.
 The folder 'NetworkChanges_Alignment' explores what network changes could underlie increased FF-Rec-Alignment and contains code to reproduce Fig. 8. Here, please run the files {onlyFF, onlyRec, Both}Change_optimal.py and plot the results with plot_Fig8b.py .
 
-
+If you have any questions regarding the code please contact traegenap at fias.uni-frankfurt.de
 
